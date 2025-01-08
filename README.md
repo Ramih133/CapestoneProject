@@ -33,4 +33,4 @@ This project addresses the inefficiencies and high costs associated with current
 - Transition from Arduino to microcontrollers for cost reduction.
 
 
-For more details, refer to the project documentation or contact the contributors.
+
